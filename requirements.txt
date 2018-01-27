@@ -1,0 +1,5 @@
+jieba
+numpy
+scipy
+wordcloud
+sklearn
